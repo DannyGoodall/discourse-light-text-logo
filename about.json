@@ -1,8 +1,8 @@
 {
-   "name" : "Bletch's Roboto Font Theme Component",
-   "about_url" : "https://github.com/DannyGoodall/discourse-robot-font",
-   "license_url": "https://github.com/DannyGoodall/discourse-robot-font/blob/master/LICENSE",
+   "name" : "Bletch's Light Text Logo Theme Component",
+   "about_url" : "https://github.com/DannyGoodall/discourse-light-text-logo",
+   "license_url": "https://github.com/DannyGoodall/discourse-light-text-logo/blob/master/LICENSE",
    "assets": {
-        "roboto": "assets/roboto.woff2"
+        "dark-logo": "assets/sotonianslogowithwhitetext.png"
    }
 }
